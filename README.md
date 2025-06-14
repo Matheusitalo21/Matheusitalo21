@@ -39,6 +39,7 @@ Caso queira conversar sobre projetos, parcerias ou oportunidades:
 
 - Email: [athouguia.matheus@gmail.com](mailto:athouguia.matheus@gmail.com)
 - GitHub: https://github.com/https://github.com/Matheusitalo21
+- LinkedIn: https://www.linkedin.com/in/matheus-italo-athouguia-rodrigues-706040286/?trk=opento_sprofile_details
 
 ---
 
