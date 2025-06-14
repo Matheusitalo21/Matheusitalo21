@@ -38,7 +38,7 @@ Gosto de trabalhar com HTML, CSS, JavaScript e PHP, e estou sempre aprendendo al
 Caso queira conversar sobre projetos, parcerias ou oportunidades:
 
 - Email: [athouguia.matheus@gmail.com](mailto:athouguia.matheus@gmail.com)
-- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+- GitHub: [github.com/seu-usuario](https://github.com/(https://github.com/Matheusitalo21)
 
 ---
 
