@@ -29,7 +29,6 @@ Gosto de trabalhar com HTML, CSS, JavaScript e PHP, e estou sempre aprendendo al
 
 - 🔭 Hoje faço faculdade de Análise e Desenvolvimento de Sistemas
 - 📘 Fiz Curso de PHP no SENAC RJ
-- 📫 Contate-me no email: athouguia.matheus@gmail.com 
 
 ---
 
