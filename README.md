@@ -1,7 +1,4 @@
 ## Olá! Eu sou o Matheus Italo
-- 🔭 Hoje faço faculdade de Análise e Desenvolvimento de Sistemas
-- 📘 Fiz Curso de PHP no SENAC RJ
-- 📫 Contate-me no email: athouguia.matheus@gmail.com 
 
 <h1 align="center">👨🏽‍💻 Matheus Ítalo</h1>
 
@@ -30,9 +27,9 @@
 Desenvolvedor apaixonado por tecnologia, com foco em **projetos funcionais, visualmente agradáveis e com código limpo**. 
 Gosto de trabalhar com HTML, CSS, JavaScript e PHP, e estou sempre aprendendo algo novo para me aprimorar.
 
-- 🎓 Estudante em formação
-- 🧱 Construindo portfólio
-- 🌱 Sempre buscando evoluir
+- 🔭 Hoje faço faculdade de Análise e Desenvolvimento de Sistemas
+- 📘 Fiz Curso de PHP no SENAC RJ
+- 📫 Contate-me no email: athouguia.matheus@gmail.com 
 
 ---
 
