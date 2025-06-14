@@ -3,8 +3,8 @@
 <h1 align="center">👨🏽‍💻 Matheus Ítalo</h1>
 
 <p align="center">
-  <b>Desenvolvedor Web</b><br>
-  Especialista em construir soluções com foco em performance, usabilidade e estética.<br>
+  <b>Analise e Desenvolvimento de Sistemas </b><br>
+  Cursando em Estácio de Sá aprendendo soluções com foco em performance, usabilidade e estética.<br>
   <br>
   <a href="mailto:athouguia.matheus@gmail.com">📩 athouguia.matheus@gmail.com</a>
 </p>
