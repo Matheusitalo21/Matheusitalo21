@@ -1,46 +1,113 @@
-## Olá! Eu sou o Matheus Italo
+# 🛡️ Matheus Italo Athouguia | Cybersecurity Portfolio
 
-<h1 align="center">👨🏽‍💻 Matheus Ítalo</h1>
+<div align="center">
 
-<p align="center">
-  <b>Analise e Desenvolvimento de Sistemas </b><br>
-  Cursando em Estácio de Sá aprendendo soluções com foco em performance, usabilidade e estética.<br>
-  <br>
-  <a href="mailto:athouguia.matheus@gmail.com">📩 athouguia.matheus@gmail.com</a>
-</p>
+<img src="https://img.shields.io/badge/Cybersecurity-6C2BFF?style=for-the-badge&logo=hackthebox&logoColor=white">
+<img src="https://img.shields.io/badge/Blue%20Team-111111?style=for-the-badge&logo=shield&logoColor=8A2BE2">
+<img src="https://img.shields.io/badge/Red%20Team-111111?style=for-the-badge&logo=target&logoColor=8A2BE2">
+<img src="https://img.shields.io/badge/Cloud%20Security-111111?style=for-the-badge&logo=icloud&logoColor=8A2BE2">
 
----
-
-## 🛠️ Tecnologias que uso
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </div>
 
 ---
 
-## 💡 Sobre mim
+## 👨‍💻 Matheus Italo Athouguia
 
-Desenvolvedor apaixonado por tecnologia, com foco em **projetos funcionais, visualmente agradáveis e com código limpo**. 
-Gosto de trabalhar com HTML, CSS, JavaScript e PHP, e estou sempre aprendendo algo novo para me aprimorar.
+### **PORTFOLIO**
 
-- 🔭 Hoje faço faculdade de Análise e Desenvolvimento de Sistemas
-- 📘 Fiz Curso de PHP no SENAC RJ
+Projetos, estudos, laboratórios e artigos voltados para **CiberSegurança**.
+
+> Explorando segurança ofensiva e defensiva, compartilhando projetos, estudos e ideias sobre o ecossistema de Cybersecurity.
 
 ---
 
-## 📫 Contato
+## 🚀 Áreas de Interesse
 
-Caso queira conversar sobre projetos, parcerias ou oportunidades:
+| 🛡️ Blue Team | 🎯 Red Team | ☁️ Cloud Security | 📝 Write-ups |
+|:---:|:---:|:---:|:---:|
+| Defesa e Monitoramento | Pentest e Segurança Ofensiva | Segurança em Nuvem | Estudos e Laboratórios |
 
-- Email: [athouguia.matheus@gmail.com](mailto:athouguia.matheus@gmail.com)
-- GitHub: https://github.com/https://github.com/Matheusitalo21
-- LinkedIn: [https://www.linkedin.com/in/matheus-italo-athouguia-rodrigues/]
 ---
 
-<p align="center" style="color: #2e2e2e;">
-  Feito com dedicação e estilo por <strong>Matheus Ítalo</strong> 💻🖤
-</p>
+## 🔥 Projetos
+
+### 🛡️ Blue Team
+
+Projetos relacionados à defesa, monitoramento e detecção de ameaças.
+
+- SIEM
+- Monitoramento de logs
+- Detecção de ameaças
+- Incident Response
+- Threat Hunting
+
+### 🎯 Red Team
+
+Estudos e laboratórios relacionados à segurança ofensiva.
+
+- Pentest
+- Exploração de vulnerabilidades
+- Web Security
+- Network Security
+- CTFs
+
+### ☁️ Cloud Security
+
+Estudos relacionados à segurança de ambientes em nuvem.
+
+- AWS
+- Azure
+- IAM
+- Cloud Security
+- Segurança de infraestrutura
+
+### 📝 Write-ups
+
+Documentação dos meus estudos, laboratórios e desafios.
+
+- CTFs
+- TryHackMe
+- Hack The Box
+- Laboratórios
+- Vulnerabilidades
+- Estudos técnicos
+
+---
+
+## 🧰 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,github,aws,azure,kali" />
+
+</div>
+
+---
+
+## 📚 Estudos
+
+Atualmente focado no desenvolvimento contínuo de conhecimentos em:
+
+```text
+Cybersecurity
+├── Blue Team
+│   ├── SOC
+│   ├── SIEM
+│   ├── Threat Hunting
+│   └── Incident Response
+│
+├── Red Team
+│   ├── Pentest
+│   ├── Web Security
+│   ├── Network Security
+│   └── Exploitation
+│
+├── Cloud Security
+│   ├── AWS
+│   ├── Azure
+│   └── IAM
+│
+└── Security Research
+    ├── CTF
+    ├── Vulnerability Research
+    └── Write-ups
